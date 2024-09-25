@@ -1,5 +1,5 @@
 # Obstacle Avoiding Car
-![Obstacle Avoiding Car](https://github.com/yazansrayyes/ObastacleAvoidingCar/blob/main/assets/exhibit.jpg)
+![Obstacle Avoiding Car](https://github.com/yazansrayyes/ObstacleAvoidingCar/blob/main/assets/exhibit.jpg)
 
 
 # Key Features
